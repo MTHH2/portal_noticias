@@ -1,0 +1,21 @@
+
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local
+db.sqlite3
+
+# Imágenes cargadas por los usuarios
+media/
+
+# Variables privadas
+.env
+
+# Configuración personal de VS Code
+.vscode/
